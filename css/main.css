@@ -5,7 +5,7 @@
     text-align: center;
     
 }
-#counter{
+#counter1,#counter2{
 display: block;
 font-family: Georgia, Times, Times New Roman, serif;
 margin:10px;
