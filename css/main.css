@@ -1,0 +1,13 @@
+.container
+{
+    margin: 0 auto;
+    width:500px;
+    text-align: center;
+    
+}
+#counter{
+display: block;
+font-family: Georgia, Times, Times New Roman, serif;
+margin:10px;
+font-size:30px;
+}
